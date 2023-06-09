@@ -1,1 +1,2 @@
-Hello i'm file0 
+Hello i'm file0
+this is new post 1
